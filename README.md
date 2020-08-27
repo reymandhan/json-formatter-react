@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Prerequisite
-- >= Node v10
+- Node v10 or newer
 or
 - Docker
 
